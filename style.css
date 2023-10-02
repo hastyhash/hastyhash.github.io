@@ -207,6 +207,7 @@ nav ul li a::after{
             font-weight: 300;
          }
          .text-box .row{
+            font-size: 21px;
             display: flex;
             align-items: center;
             flex-wrap: wrap;
